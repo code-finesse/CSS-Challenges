@@ -10,7 +10,7 @@ CSS Challenges are a great way to grow as a developer and problem solver. This r
 
 We are part of a daily CSS challenge group consisting of developers from many levels. We want new developers to have a reference for how to approach challenges as well as a solutions repo to view if they could not make the live challenge. This is that....
 
-<details >
+<details open >
 <summary>Is this how CSS makes you feel?</summary>
 <br>
 
