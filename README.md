@@ -48,7 +48,7 @@ Walk-throughs are debrief of how we thought about and tackled the the challenge.
       <details>
       <summary>Newbie</summary>   
    
-   - [Four Card Feature Section](https://github.com/code-finesse/CSS-Challenges/front_end_mentor/newbie/four_card_feature_section.md)
+   - [Four Card Feature Section](https://github.com/code-finesse/CSS-Challenges/blob/main/front_end_mentor/newbie/four_card_feature_section/four_card_feature_section.md)
  
   </details>
     </li>
