@@ -16,7 +16,7 @@ We are part of a daily CSS challenge group consisting of developers from many le
 
 ![gif](https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif)
 
-If so, jump in our discord and get some practice! CSS doesn't have to feel like building a tower of cards that blows up when you need to make a change! It can be fun and beautiful with a little practice and method implemented!
+If so, jump in our discord and get some practice! CSS doesn't have to feel like building a tower of cards that blows up when you need to make a change! With a little practice, it can be fun and beautiful!
 </details>
 
 <br>
